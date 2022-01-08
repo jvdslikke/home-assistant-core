@@ -1,0 +1,17 @@
+{
+  "domain": "solax_x3_rs485",
+  "name": "Solax X3 RS485",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/solax_x3_rs485",
+  "requirements": [
+    "solax-x3-rs485==0.0.2"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@jvdslikke"
+  ],
+  "iot_class": "local_polling"
+}

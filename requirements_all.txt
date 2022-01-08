@@ -2215,6 +2215,9 @@ solaredge-local==0.2.0
 # homeassistant.components.solaredge
 solaredge==0.0.2
 
+# homeassistant.components.solax_x3_rs485
+solax-x3-rs485==0.0.2
+
 # homeassistant.components.solax
 solax==0.2.9
 
